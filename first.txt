@@ -1,0 +1,6 @@
+hiii im feeling very tired
+<<<<<<< HEAD
+hello world
+mesiiiiiiiiiiiii
+=======
+>>>>>>> parent of baa94b2 (updated first for the 1st time)
